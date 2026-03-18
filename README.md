@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Project Overview
-
+PROJECT LINK :https://om2006-dev-nvme-drive-predicion-system-nvme-complete-pu9mer.streamlit.app/
 NVMe SSDs are widely used in modern computing systems for their high performance and low latency. However, like all storage devices, they degrade over time due to write endurance limits, thermal stress, power interruptions, and firmware issues. When failure occurs, it can lead to data corruption, performance loss, or complete device outage.
 
 This project analyzes NVMe drive SMART telemetry to:
